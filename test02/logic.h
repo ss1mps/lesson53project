@@ -1,0 +1,1 @@
+void sort_selected(int array[], int size);
